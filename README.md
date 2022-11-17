@@ -13,3 +13,7 @@ anime({
   duration: 800
 });
 ```
+
+```CSS
+body {color: green;}
+```
